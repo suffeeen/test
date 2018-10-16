@@ -1,2 +1,6 @@
 second
+<<<<<<< HEAD
 修复了第二个bug
+=======
+修复了一个bug
+>>>>>>> master
